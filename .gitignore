@@ -1,3 +1,5 @@
 img/
 img_inspection/
 __pycache__/
+*.xlsx
+*.pt
